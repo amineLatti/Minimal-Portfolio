@@ -1,6 +1,6 @@
 Minimal Portofolio
 ================================
-FrameWork : ReactJS
+FrameWork : ReactJS \n
 Front : TailwindCSS
 
 # Installation
